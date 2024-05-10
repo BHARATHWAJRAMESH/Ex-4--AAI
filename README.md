@@ -1,7 +1,7 @@
-<H3>ENTER YOUR NAME: Bharathwaj R S</H3>
+<H3>ENTER YOUR NAME: Bharathwaj R</H3>
 <H3>ENTER YOUR REGISTER NO. 212222240019</H3>
 <H3>EX. NO.4</H3>
-<H3>DATE: </H3>
+<H3>DATE:    </H3>
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
 
 ## Aim: 
